@@ -1,0 +1,107 @@
+problem_category,problem_type,severity,psu,prov,district,geotype,problem_detail,n_households
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,1060169,NA,NA,NA,"PSU 1060169 found in provinces: 99,1",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,1070088,NA,NA,NA,"PSU 1070088 found in provinces: 1,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,1100058,NA,NA,NA,"PSU 1100058 found in provinces: 1,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,1100131,NA,NA,NA,"PSU 1100131 found in provinces: 1,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,1100230,NA,NA,NA,"PSU 1100230 found in provinces: 1,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,1140279,NA,NA,NA,"PSU 1140279 found in provinces: 99,1",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,1190350,NA,NA,NA,"PSU 1190350 found in provinces: 1,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,2030080,NA,NA,NA,"PSU 2030080 found in provinces: 2,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,2070040,NA,NA,NA,"PSU 2070040 found in provinces: 2,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,2080158,NA,NA,NA,"PSU 2080158 found in provinces: 2,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,2100138,NA,NA,NA,"PSU 2100138 found in provinces: 2,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,2100166,NA,NA,NA,"PSU 2100166 found in provinces: 2,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,2120298,NA,NA,NA,"PSU 2120298 found in provinces: 2,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,2150364,NA,NA,NA,"PSU 2150364 found in provinces: 2,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,2160377,NA,NA,NA,"PSU 2160377 found in provinces: 2,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,2180044,NA,NA,NA,"PSU 2180044 found in provinces: 2,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,4030123,NA,NA,NA,"PSU 4030123 found in provinces: 4,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,5020246,NA,NA,NA,"PSU 5020246 found in provinces: 5,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,5020634,NA,NA,NA,"PSU 5020634 found in provinces: 5,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,5030589,NA,NA,NA,"PSU 5030589 found in provinces: 5,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,5040242,NA,NA,NA,"PSU 5040242 found in provinces: 5,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,5040400,NA,NA,NA,"PSU 5040400 found in provinces: 5,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,5090547,NA,NA,NA,"PSU 5090547 found in provinces: 5,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,5120499,NA,NA,NA,"PSU 5120499 found in provinces: 5,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,5140381,NA,NA,NA,"PSU 5140381 found in provinces: 5,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,5170306,NA,NA,NA,"PSU 5170306 found in provinces: 5,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,6040123,NA,NA,NA,"PSU 6040123 found in provinces: 99,6",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,7010516,NA,NA,NA,"PSU 7010516 found in provinces: 7,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,7020443,NA,NA,NA,"PSU 7020443 found in provinces: 7,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,7020770,NA,NA,NA,"PSU 7020770 found in provinces: 7,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,7050238,NA,NA,NA,"PSU 7050238 found in provinces: 7,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,7060763,NA,NA,NA,"PSU 7060763 found in provinces: 7,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,7070850,NA,NA,NA,"PSU 7070850 found in provinces: 7,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,7080480,NA,NA,NA,"PSU 7080480 found in provinces: 7,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,7100352,NA,NA,NA,"PSU 7100352 found in provinces: 7,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,7110306,NA,NA,NA,"PSU 7110306 found in provinces: 7,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,7130844,NA,NA,NA,"PSU 7130844 found in provinces: 7,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,7130867,NA,NA,NA,"PSU 7130867 found in provinces: 7,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,7140849,NA,NA,NA,"PSU 7140849 found in provinces: 7,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,7160725,NA,NA,NA,"PSU 7160725 found in provinces: 7,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,7200015,NA,NA,NA,"PSU 7200015 found in provinces: 7,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,8010165,NA,NA,NA,"PSU 8010165 found in provinces: 8,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,8020067,NA,NA,NA,"PSU 8020067 found in provinces: 8,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,8030245,NA,NA,NA,"PSU 8030245 found in provinces: 99,8",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,8060001,NA,NA,NA,"PSU 8060001 found in provinces: 8,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,8070195,NA,NA,NA,"PSU 8070195 found in provinces: 8,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,8090194,NA,NA,NA,"PSU 8090194 found in provinces: 8,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,8160158,NA,NA,NA,"PSU 8160158 found in provinces: 8,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,9110105,NA,NA,NA,"PSU 9110105 found in provinces: 9,99",NA
+duplicate_psu,Duplicate PSU Across Provinces,CRITICAL,9180060,NA,NA,NA,"PSU 9180060 found in provinces: 9,99",NA
+district_mismatch,Province-District Mismatch,HIGH,1030089,1,407,1,PSU in province 1 but district code 407 implies province 4,7
+district_mismatch,Province-District Mismatch,HIGH,1040105,1,301,3,PSU in province 1 but district code 301 implies province 3,5
+district_mismatch,Province-District Mismatch,HIGH,1040171,1,607,1,PSU in province 1 but district code 607 implies province 6,7
+district_mismatch,Province-District Mismatch,HIGH,1060169,99,107,1,PSU in province 99 but district code 107 implies province 1,6
+district_mismatch,Province-District Mismatch,HIGH,1120321,1,702,3,PSU in province 1 but district code 702 implies province 7,7
+district_mismatch,Province-District Mismatch,HIGH,1140279,99,105,2,PSU in province 99 but district code 105 implies province 1,6
+district_mismatch,Province-District Mismatch,HIGH,1180284,1,305,1,PSU in province 1 but district code 305 implies province 3,7
+district_mismatch,Province-District Mismatch,HIGH,1190137,1,907,1,PSU in province 1 but district code 907 implies province 9,6
+district_mismatch,Province-District Mismatch,HIGH,2010180,2,106,1,PSU in province 2 but district code 106 implies province 1,5
+district_mismatch,Province-District Mismatch,HIGH,3060045,3,704,1,PSU in province 3 but district code 704 implies province 7,5
+district_mismatch,Province-District Mismatch,HIGH,5030134,5,202,2,PSU in province 5 but district code 202 implies province 2,6
+district_mismatch,Province-District Mismatch,HIGH,5100521,5,302,1,PSU in province 5 but district code 302 implies province 3,8
+district_mismatch,Province-District Mismatch,HIGH,5190532,5,308,1,PSU in province 5 but district code 308 implies province 3,6
+district_mismatch,Province-District Mismatch,HIGH,6040123,99,608,2,PSU in province 99 but district code 608 implies province 6,7
+district_mismatch,Province-District Mismatch,HIGH,7100681,7,504,1,PSU in province 7 but district code 504 implies province 5,5
+district_mismatch,Province-District Mismatch,HIGH,7110176,7,501,1,PSU in province 7 but district code 501 implies province 5,5
+district_mismatch,Province-District Mismatch,HIGH,7140336,7,408,3,PSU in province 7 but district code 408 implies province 4,8
+district_mismatch,Province-District Mismatch,HIGH,8030245,99,802,1,PSU in province 99 but district code 802 implies province 8,8
+invalid_province,Invalid Province Code,HIGH,1060169,99,107,1,Province code 99 not in GADM reference,6
+invalid_province,Invalid Province Code,HIGH,1140279,99,105,2,Province code 99 not in GADM reference,6
+invalid_province,Invalid Province Code,HIGH,6040123,99,608,2,Province code 99 not in GADM reference,7
+invalid_province,Invalid Province Code,HIGH,8030245,99,802,1,Province code 99 not in GADM reference,8
+malformed_psu,Malformed PSU Code,MEDIUM,1060169,99,107,1,PSU prefix 1 doesn't match province 99,6
+malformed_psu,Malformed PSU Code,MEDIUM,1140279,99,105,2,PSU prefix 1 doesn't match province 99,6
+malformed_psu,Malformed PSU Code,MEDIUM,6040123,99,608,2,PSU prefix 6 doesn't match province 99,7
+malformed_psu,Malformed PSU Code,MEDIUM,8030245,99,802,1,PSU prefix 8 doesn't match province 99,8
+malformed_psu,Malformed PSU Code,MEDIUM,X030078,9,908,2,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X030107,2,202,2,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X030279,2,201,2,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X050055,1,103,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X050128,5,502,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X060011,4,406,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X060111,1,107,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X070001,3,303,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X070277,9,901,3,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X080245,2,204,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X090041,8,802,2,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X090177,2,208,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X090387,7,707,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X090621,7,707,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X110879,7,704,2,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X120751,7,703,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X140450,5,501,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X140547,7,701,2,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X140552,5,506,2,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X150325,5,504,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X160005,9,905,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X180210,7,705,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X180249,9,908,2,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X180373,1,106,2,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X180823,7,704,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X190109,2,204,2,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X190224,8,803,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X200283,5,506,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X200630,7,707,1,PSU code contains non-numeric characters,1
+malformed_psu,Malformed PSU Code,MEDIUM,X200838,7,705,2,PSU code contains non-numeric characters,1

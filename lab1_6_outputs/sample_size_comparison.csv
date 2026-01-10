@@ -1,0 +1,5 @@
+"Method","Total_Sample","Expected_Rare","Efficiency_vs_SRS"
+"Simple Random Sampling",7299,364.95,"1"
+"Stratified - Proportional",7237,361.876257887726,"1.00856708580904"
+"Stratified - Neyman",6905,375.694486228226,"1.05706010137581"
+"Stratified - Oversampling",2295,100.081050113424,"Target-based"
