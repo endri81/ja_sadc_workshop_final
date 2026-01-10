@@ -1,8 +1,3 @@
-"Metric","Value"
-"Total Interviews",20940
-"Total Enumerators",50
-"Flagged Short Duration",526
-"Flagged Suspicious Time",128
-"Any Flag",544
-"High Risk Enumerators",0
-"Medium Risk Enumerators",0
+version https://git-lfs.github.com/spec/v1
+oid sha256:41c26359296a7f3baa59060c76b8fa31a2ee3925bdd474a1410677dfc6604f79
+size 201

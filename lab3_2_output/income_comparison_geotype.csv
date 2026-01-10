@@ -1,4 +1,3 @@
-GeoType,NR_Mean,NR_SE,Cal_Mean,Cal_SE,Diff,Pct_Diff
-Urban,298177,20573,299828,20614,1651,0.55
-Traditional,93294,14666,92283,14396,-1011,-1.08
-Farms,863004,149100,867112,148872,4108,0.48
+version https://git-lfs.github.com/spec/v1
+oid sha256:e91cb104d1562670f96ef87ccde54f9fde380983b4b2a306f1fb5ef1fe77fb5b
+size 186

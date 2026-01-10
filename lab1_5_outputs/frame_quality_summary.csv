@@ -1,11 +1,3 @@
-metric,value
-Total PSUs,3455
-Problem PSUs,94
-Problem Rate (%),2.72
-Total Households,22181
-Affected Households,198
-Affected Rate (%),0.89
-Critical Issues,50
-High Issues,22
-Medium Issues,34
-Low Issues,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:75bc43d91bf39437797cf40bff0195c33bd305898215ec488b3bcff1f4d90954
+size 201

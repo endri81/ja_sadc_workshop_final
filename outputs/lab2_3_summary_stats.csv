@@ -1,8 +1,3 @@
-Metric,Value
-Total Households,20940
-Total PSUs,3218
-Total Strata,248
-Provinces Covered,9
-Metro Areas Covered,17
-Min PSUs per Province,142
-Max PSUs per Province,837
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe2f4e3ba6e39bd733039ec2c4fadc48e38bda3dcb0f8e2d8a0a712be38c3286
+size 164
